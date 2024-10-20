@@ -13,13 +13,13 @@
 •
 [Deskripsi Project](#open_book-Project)
 •
-[Demo dan Alur Project](#books-demo_dan_alur_project)
+[Demo dan Alur Project](#books-Demo)
 •
 [Pengembang](#panda_face-Pengembang)
 •
 </div>
 
-# :newspaper: Tentang
+## :newspaper: Tentang
 
 **Sekilas Tentang Pemalsuan Dokumen**
 
@@ -41,4 +41,4 @@ Pemalsuan dokumen tanda tangan semakin meningkat seiring dengan perkembangan era
 Model konvolusi menggunakan arsitektur lapisan embedding dan aktivasi ReLU, optimasi dilakukan dengan Adam optimizer untuk meminimalkan loss binary crossentropy. Pelatihan diterapkan menggunakan mini-batch perhitungan gradien dan pembaruan bobot melalui backpropagation. Pada tahapan akhir dilakukan verifikasi SNN dengan distance layer. Pengujian model dilakukan dalam skenario realtime OpenCV memungkinkan proses verifikasi berlangsung secara cepat, efisien, dan akurat. 
 </p>
 
-## :books: Demo dan Alur Project
+## :books: Demo
