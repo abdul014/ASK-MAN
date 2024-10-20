@@ -44,3 +44,5 @@ Pemalsuan dokumen tanda tangan semakin meningkat seiring dengan perkembangan era
 <p align="justify">
 Model konvolusi menggunakan arsitektur lapisan embedding dan aktivasi ReLU, optimasi dilakukan dengan Adam optimizer untuk meminimalkan loss binary crossentropy. Pelatihan diterapkan menggunakan mini-batch perhitungan gradien dan pembaruan bobot melalui backpropagation. Pada tahapan akhir dilakukan verifikasi SNN dengan distance layer. Pengujian model dilakukan dalam skenario realtime OpenCV memungkinkan proses verifikasi berlangsung secara cepat, efisien, dan akurat. 
 </p>
+
+# :books: Dokumen
