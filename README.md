@@ -13,7 +13,7 @@
 •
 [Deskripsi Project](#open_book-Project)
 •
-[Demo dan Alur Project](#books-Demo_dan_Alur_Project)
+[Demo dan Alur Project](#books-demo_dan_alur_project)
 •
 [Pengembang](#panda_face-Pengembang)
 •
