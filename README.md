@@ -1,7 +1,6 @@
 <div align="center">
 
-![ipb](https://github.com/user-attachments/assets/e815acc6-2ef1-49cb-8ead-3f77547614e4)
-
+![image](https://github.com/user-attachments/assets/e3f87566-6217-4d7f-a2e6-38d66f59ee84)
 
 # ASK-MAN
 
