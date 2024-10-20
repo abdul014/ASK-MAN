@@ -57,10 +57,9 @@ Model konvolusi menggunakan arsitektur lapisan embedding dan aktivasi ReLU, opti
 
 
 ## :panda_face: Pengembang
-<p align="justify">
-+ [Abd Rahman](https://github.com/abdul014/)
-+ [Kevin_Alifviansyah](https://github.com/kevinsoewari/)
-+ [Sean Marshelle](https://github.com/seanmarshelleproj)
-+ [Meisyatul Ilma](https://github.com/meisyatulilma)
 
-</p>
+[Abd Rahman](https://github.com/abdul014/)
+[Kevin_Alifviansyah](https://github.com/kevinsoewari/)
+[Sean Marshelle](https://github.com/seanmarshelleproj)
+[Meisyatul Ilma](https://github.com/meisyatulilma)
+
