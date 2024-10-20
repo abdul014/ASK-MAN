@@ -32,6 +32,10 @@ Pemalsuan dokumen tanda tangan semakin meningkat seiring dengan perkembangan era
 </p>
 
 
-![image](https://github.com/user-attachments/assets/29d16c29-7d61-41e9-b65c-d5e2be98e7ad)
 
 ## :open_book: Project 
+
+<p align="center" width="80%">
+   ![image](https://github.com/user-attachments/assets/29d16c29-7d61-41e9-b65c-d5e2be98e7ad)
+</p>
+
