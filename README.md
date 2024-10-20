@@ -42,8 +42,11 @@ Model konvolusi menggunakan arsitektur lapisan embedding dan aktivasi ReLU, opti
 </p>
 
 <p align="center">
+
 # :world_map: Menu
+
 ![WhatsApp Image 2024-10-18 at 16 00 56_4ac91ebd](https://github.com/user-attachments/assets/ad085560-f88b-40d7-8db2-846a05cf1eec)
+
 </p>
 
 
