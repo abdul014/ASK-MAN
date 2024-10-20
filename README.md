@@ -22,3 +22,11 @@
 [Pengembang](#panda_face-Pengembang)
 
 </div>
+
+# :newspaper: Tentang
+
+**Sekilas Tentang Pemalsuan Dokumen**
+
+<p align="justify">
+Pemalsuan dokumen tanda tangan semakin meningkat seiring dengan perkembangan era digital yang menghadirkan tantangan baru bagi keamanan dokumen dan autentikasi. Penelitian ini bertujuan mengembangkan verifikasi dan pengenalan tanda tangan berbasis Convolutional Neural Network (CNN) dan Siamese Neural Network (SNN) dengan layer distance mahanalobis untuk mendeteksi dan memverifikasi keaslian dokumen tanda tangan. Data dikumpulkan melalui webcam yang mencerminkan data dokumen tanda tangan pada perbankan. Setiap citra diberi label, augmentasi dan preprocessing dengan 2 size citra.
+</p>
