@@ -46,6 +46,9 @@ Model konvolusi menggunakan arsitektur lapisan embedding dan aktivasi ReLU, opti
 # :world_map: Diagram Alir Analisis
 
 ![WhatsApp Image 2024-10-18 at 16 00 56_4ac91ebd](https://github.com/user-attachments/assets/ad085560-f88b-40d7-8db2-846a05cf1eec)
+<p align="justify">
+Diagram alir dimulai dari mengumpulkan data yang kemudian dikategorikan menjadi anchor, positif, dan negatif, selanjutnya dilakukan penyimpanan data hasil pengkategorian. Pada langkah selanjutnya, augmentasi dan prapemrosesan data, membagi data menjadi data pelatihan dan data pengujian, Setelahnya adalah membangun model pelatihan, mengevaluasi model, menghitung metrik, melakukan uji waktu nyata, dan akhirnya menyimpulkan hasil keseluruhan.
+</p>
 
 </p>
 
