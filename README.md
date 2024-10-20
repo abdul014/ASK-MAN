@@ -15,7 +15,7 @@
 •
 [Demo dan Alur Project](#books-Demo)
 •
-[Pengembang](#panda_face-Pengembang)
+[ASK-Man](#panda_face-ASK-Man)
 •
 </div>
 
@@ -56,7 +56,7 @@ Model konvolusi menggunakan arsitektur lapisan embedding dan aktivasi ReLU, opti
 
 
 
-## :panda_face: ASK-Man TEAM
+## :panda_face: ASK-Man 
 
 + [Abd Rahman](https://github.com/abdul014/)
 + [Kevin_Alifviansyah](https://github.com/kevinsoewari/)
