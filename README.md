@@ -57,7 +57,11 @@ Diagram alir dimulai dari mengumpulkan data yang kemudian dikategorikan menjadi 
 
 ## :books: Demo
 
+<div align="center">
 
+![image](https://github.com/abdul014/ASK-MAN/blob/main/Pictures/demo.gif)
+
+<p align="center">
 
 ## :panda_face: ASK-Man 
 
