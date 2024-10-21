@@ -63,6 +63,10 @@ Diagram alir dimulai dari mengumpulkan data yang kemudian dikategorikan menjadi 
 
 <p align="center">
 
+<p align="justify">
+Berikut merupakan hasil pengujian dengan menggunkan tanda tangan yang tidak tersimpan di dalam database. Terlihat jika sistem menyatakannya sebagai False atau kesalahan.
+</p>
+
 ## :panda_face: ASK-Man 
 
 + [Abd Rahman](https://github.com/abdul014/)
